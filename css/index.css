@@ -35,7 +35,7 @@ body {
                                                                         /*first_block*/
 
   .first_block {
-    background:url(./pic/bg1.png), radial-gradient(62.63% 123.97% at 50% 0%, #FD6946 31.29%, #F74153 100%);
+    background:url(pic/bg1.png), radial-gradient(62.63% 123.97% at 50% 0%, #FD6946 31.29%, #F74153 100%);
     background-position-x: 655px,center;
     background-position-y: 120px, center;
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@ margin-top: 50px;
     margin-left: -80px;
     width: 805px;
     height: 507px;
-    background-image: url(./pic/b2.png);
+    background-image: url(pic/b2.png);
   }
 
 
@@ -269,7 +269,7 @@ margin-top: 50px;
                                                                         /*third_block*/
 
 .vertical {
-    background-image: url(./pic/b3vector.png) , radial-gradient(56.98% 112.78% at 50% 105.26%, #FD6946 31.29%, #F74153 100%);
+    background-image: url(pic/b3vector.png) , radial-gradient(56.98% 112.78% at 50% 105.26%, #FD6946 31.29%, #F74153 100%);
     background-repeat: repeat-x,no-repeat;
     background-position-x: center, center;
     background-position-y: 210px, center;
@@ -300,7 +300,7 @@ color: #FFFFFF;
 .vertical_center-img {
   width: 1191px;
   height: 491px;
-  background-image: url(./pic/b3.png);
+  background-image: url(pic/b3.png);
   margin: auto;
 }
 
@@ -429,14 +429,14 @@ justify-content: center;
     width: 20px;
     height: 67px;
     background:transparent;
-    background-image: url(./pic/arrow_normal.png);
+    background-image: url(pic/arrow_normal.png);
     background-repeat: no-repeat;
     outline: none;
     border: none;
   }
   .prev:focus {
     background: transparent;
-    background-image: url(./pic/arrow_focus.png);
+    background-image: url(pic/arrow_focus.png);
     background-repeat: no-repeat;
     transform: rotate(180deg);
     outline: none;
@@ -449,7 +449,7 @@ justify-content: center;
     width: 20px;
     height: 67px;
     background: transparent;
-    background-image: url(./pic/arrow_normal.png);
+    background-image: url(pic/arrow_normal.png);
     background-repeat: no-repeat;
     outline: none;
     border: none;
@@ -457,7 +457,7 @@ justify-content: center;
   }
   .next:focus {
     background:transparent;
-    background-image: url(./pic/arrow_focus.png);
+    background-image: url(pic/arrow_focus.png);
     background-repeat: no-repeat;
     outline: none;
     border: none;
@@ -497,7 +497,7 @@ justify-content: center;
 .world {
 position: relative;
 height: 1271px;
-background:url(./pic/bgpanet.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
+background:url(pic/bgpanet.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
 background-repeat: no-repeat;
 background-position-x: 0px,center;
 background-position-y: -400px,center;
@@ -559,7 +559,7 @@ color: #FFFFFF;
   .world {
     position: relative;
     height: 1271px;
-    background:url(./pic/bgpanet.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
+    background:url(pic/bgpanet.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
     background-repeat: no-repeat;
     background-position-x: -300px,center;
     background-position-y: -400px,center;
@@ -605,7 +605,7 @@ color: #FFFFFF;
 
 
     .first_block{
-      background-image: url(./pic/np2.png), radial-gradient(62.63% 123.97% at 50% 0%, #FD6946 31.29%, #F74153 100%);
+      background-image: url(pic/np2.png), radial-gradient(62.63% 123.97% at 50% 0%, #FD6946 31.29%, #F74153 100%);
       background-repeat: no-repeat;
       background-position-x: -150px,center;
       background-position-y: 238px, center;
@@ -704,7 +704,7 @@ margin-top:24px
   margin-right: auto;
   width: 254px;
   height: 450px;
-  background-image: url(./pic/phonelook.png);
+  background-image: url(pic/phonelook.png);
 }
 .scnd_btn {
   width: 310px;
@@ -718,7 +718,7 @@ margin-top:24px
 /*block three*/
 
 .vertical {
-  background-image: url(./pic/b3vector.png) , radial-gradient(56.98% 112.78% at 50% 105.26%, #FD6946 31.29%, #F74153 100%);
+  background-image: url(pic/b3vector.png) , radial-gradient(56.98% 112.78% at 50% 105.26%, #FD6946 31.29%, #F74153 100%);
   background-repeat: no-repeat;
   background-position-y: 775px, center;
   height: 1463px;
@@ -737,7 +737,7 @@ font-size: 40px;
 .vertical_center-img {
   width: 290px;
   height: 1175px;
-  background-image: url(./pic/b3mob.png);
+  background-image: url(pic/b3mob.png);
   margin: auto;
 }
 
@@ -792,7 +792,7 @@ font-size: 40px;
   /*block 5*/
 .world {
 
-  background-image: url(./pic/Planetmob.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
+  background-image: url(pic/Planetmob.png), radial-gradient(81.26% 100% at 50.62% 0%, #FD6946 0%, #F74153 100%);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: 90px,center;
